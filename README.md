@@ -1,5 +1,3 @@
-# IbukunAkinniku
-Portfolio
 <h1 align="center">Hi 👋, I'm Ibukun Akinniku</h1>
 <h3 align="center">Data Analyst @ Wragby | Turning Data Into Decisions</h3>
 
@@ -25,8 +23,8 @@ Passionate about solving business problems, I turn complex datasets into clear, 
 ### 🏆 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PL--300-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/IbukunAkinniku-9915/4FC982347E376625?sharingId=13C213EAA534AA3" target="_blank"><img src="https://img.shields.io/badge/PL--300-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/IbukunAkinniku-9915/C9F3B9CABE679D28?sharingId=13C213EAA534AA3" target="_blank"><img src="https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
@@ -80,9 +78,8 @@ One-line description of the project — what problem it solves and tools used.
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ibukun-akinniku" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akinnikuibukun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ from Ibukun Akinniku</i></p>
